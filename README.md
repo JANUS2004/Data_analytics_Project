@@ -10,18 +10,6 @@ The World Billionaires Statistics Project is designed to analyze and gain insigh
 
 Follow these steps to set up and run the project locally:
 
-### Prerequisites
-
-- Python (version >= 3.6)
-- Django (version >= 3.0)
-- Other dependencies (specified in `requirements.txt`)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your_username/world-billionaires-statistics.git
-cd world-billionaires-statistics
-python -m venv venv
-source venv/bin/activate   # On Windows: .\venv\Scripts\activate
-python manage.py runserver
-
+The dataset is attached in the repository, download and store that file locally
+Change the path address in views and run the program using 
+manage.py run server
